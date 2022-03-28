@@ -1,0 +1,23 @@
+{
+  "products": [{
+    "prodId": 12,
+    "prodName": "Apple",
+    "Price": 25
+  },
+    {
+      "prodId": 13,
+      "prodName": "Orange",
+      "Price": 20
+    },
+    {
+      "prodId": 14,
+      "prodName": "Avacado",
+      "Price": 26
+    },
+    {
+      "prodId": 15,
+      "prodName": "Pomegranate",
+      "Price": 36
+    }
+  ]
+}
